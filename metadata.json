@@ -1,0 +1,6 @@
+{
+  "name": "XCLOUD - Cloud MikroTik & Hotspot Management System",
+  "description": "Enterprise cloud management platform for MikroTik RouterOS: Hotspot billing, FreeRADIUS AAA, voucher generation, mobile money payments (M-Pesa, Airtel, Tigo, Selcom), WireGuard VPN & live telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
